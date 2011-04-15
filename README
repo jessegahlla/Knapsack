@@ -1,0 +1,28 @@
+Genetic Algorithm Solution of the Knapsack Problem
+==================================================
+
+This program narrows into a solution to the knapsack problem in R. A description of the problem can be found online, and admittedly this program is a simple implementation of
+it. The purpose of this program is to show how a genetic algorithm is set up and run in
+R. If you wish to modify it for some other problem, you'll be modifying the fitness
+function for your unique solution space (and whatever else you need to do), but the 
+skeleton of the problem should remain the same.
+
+In other words, the point of this program is to show you how to write a simple genetic
+algorithm in R for a simple problem.
+
+Dependencies
+------------
+
+You need R.
+
+Contents
+--------
+
+knapsack.R	- genetic algorithm solution of the knapsack problem in R
+
+
+Usage
+_____
+R> source("knapsack.R")
+
+----> knapsack.R was written by Jesse Singh, hello@jessesingh.com. Say hello! <----
